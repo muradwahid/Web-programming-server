@@ -1,3 +1,243 @@
 [
+  {
+    "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "Javascript for Beginners",
+    "title_details": "Learn javascript online and supercharge your web design with this Javascript for beginners training course",
+    "course_details": {
+      "course_duration":6,
+      "videos":300,
+      "project":20
+    },
+    "price":10000,
+    "course_content": [
+      "Javascript for Beginners",
+      "Chapter 1: Hello Javascript!",
+      "Chapter 2: Storing Information in Variables",
+      "Chapter 3: Conditional Statements",
+      "Chapter 4: Dialog Boxes",
+      "Chapter 5: Now We'er Iterating! Loops in Javascript",
+      "Chapter 6: Coding Javascript Functions",
+      "Chapter 7: Working with Arrays",
+      "Chapter 8: The String Object",
+      "Chapter 9: Obtaining and Manipulating User Information",
+      "Chapter 10: The Document Object",
+      "Lab Solutions",
+      "Bonus Lecture"
+    ],
+    "thumbnail_url": "https://rb.gy/mkfmei",
+    "details": "Take this Javascript training course and start learning Javascript today.'As a business guy I have no place in programming.' Ten years ago you could have gotten away with that statement. Today you say that to your colleagues and they scoff at you before they go back to their computers to fix real problems and do real work.If you want to do something useful start by learning Javascript . In these days when the browser is central to all computer use knowing 'the language of the browser' is the most important step. A few years ago Javascript potential was uncertain and many programmers considered it useless. These days however competent programmers have identified Javascript real potential and uses and it has gone from a toy language to the main language of the browser. It has become one of the most useful languages of this era. Every developer needs at least a basic understanding of Javascript. A developer who knows Javascript is the rockstar of the company and is in constant demand by employers. Our online Javascript course will get you started by teaching all the essential aspects of coding in Javascript. So... what's it gonna be? Do you want to supercharge your career and be in constant demand by employers? Do you want to learn how to create dynamic and innovative Javascript documents? Start programming today with our Javascript course for Beginners training and take control of your career."
+  },
+  {
+    "id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "Build Responsive Real-World Websites with HTML and CSS",
+    "title_details": "Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid",
+    "course_details": {
+      "course_duration": 6,
+      "videos": 300,
+      "project": 20
+    },
+    "price":7500,
+    "course_content": [
+      "Welcome and First Steps",
+      "HTML Fundamentals",
+      "CSS Fundamentals",
+      "Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+      "Web Design Rules and Framework",
+      "Components and Layout Patterns",
+      "Omnifood Project - Setup and Desktop Version",
+      "Omnifood Project - Responsive Web Design",
+      "Omnifood Project - Effects, Optimizations and Deployment",
+      "The End!",
+      "[LEGACY] Old Course Version 1"
+    ],
+    "thumbnail_url": "https://rb.gy/mesfu2",
+    "details": "*** Completely re-built from scratch in July 2021 (35+ hours video) *** 'Having gone through other related courses on other platforms, I can say this course is the most practical and readily applicable course on web design and development I have taken.' — Bernie Pacis Open a new browser tab, type in www.omnifood.dev, and take a look around. I will wait here...Amazing, right? What if you knew exactly how to design and build a website like that, completely from scratch? How amazing would that be?Well, I'm here to teach you HTML, CSS, and web design, all by building the stunning website that you just saw, step-by-step.So, after finishing this course, you will know exactly how to build a beautiful, professional, and ready-to-launch website just like Omnifood, by following a 7-step process. And it will even look great on any computer, tablet, and smartphone.But what if you want to build a completely different website? Well, no problem! I designed the course curriculum with exactly this goal: to enable you to design and build any website that you can think of, not just copy the course project."
+  },
 
+  {
+    "id": "f69a695f037cd9484cecaea37ca71011",
+    "category_id": "01",
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "total_view": 400,
+    "title": "MERN Stack Front To Back: Full Stack React, Redux & Node.js",
+    "title_details": "Build and deploy a social network with Node.js, Express, React, Redux & MongoDB. Fully updated April 2022",
+    "course_details": {
+      "course_duration": 6,
+      "videos": 300,
+      "project": 20
+    },
+    "price":9000,
+    "course_content": [
+      "Introduction",
+      "Express & MongoDB Setup",
+      "User API Routes & JWT Authentication",
+      "Profile API Routes",
+      "Post API Routes",
+      "Getting Started With React & The Frontend",
+      "Redux Setup & Alerts",
+      "React User Authentication",
+      "Dashboard & Profile Management",
+      "Profile Display",
+      "Posts & Comments",
+      "Prepare & Deplay",
+      "Issues, Added Features, etc"
+    ],
+    "thumbnail_url": "https://rb.gy/enqouo",
+    "details": "Welcome to 'MERN Stack Front To Back'. In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application.This course includes... Building an extensive backend API with Node.js & Express Protecting routes/endpoints with JWT (JSON Web Tokens) Extensive API testing with Postman Integrating React with our backend in an elegant way, creating a great workflow Building our frontend to work with the API Using Redux for app state management Creating reducers and actions for our resources Creating many container components that integrate with Redux Testing with the Redux Chrome extensionCreating a build script, securing our keys and deploy to Heroku using Git UPDATE: The entire course was updated to use React Hooks, Async/Await and better overall code."
+  },
+  {
+    "id": "f69a695f037cd9484cecaea37ca71012",
+    "category_id": "02",
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "total_view": 400,
+    "title": "Full Digital Marketing Course",
+    "title_details": "Learn Digital Marketing Course includes Blog, Elementor, Affiliate Marketing, Email Marketing, SEO, FB Google Ads, etc",
+    "course_details": {
+      "course_duration": 6,
+      "videos": 300,
+      "project": 20
+    },
+    "price":5000,
+    "thumbnail_url": "https://rb.gy/8b2zpt",
+    "course_content": [
+      "Digital Marketing Basics",
+      "Wordpress & Content Mastery",
+      "Elementor Mastery",
+      "Search Engine Optimization Mastery",
+      "Email Marketing & Automation",
+      "Affiliate Marketing Mastery",
+      "Google Ads Mastery",
+      "Facebook Ads Mastery"
+    ],
+    "details": "Digital Marketing Meaning, Digital Marketing Plans & Strategy, Marketing Goals & Objectives, Understanding the Buyer, Inbound Marketing Concepts, Inbound Marketing Methodology, Inbound Marketing Channels, Search Engine Optimization - inbound, Social Media Marketing - inbound, Content & Email Marketing - inbound, Content & Email Marketing - inbound."
+  },
+
+  {
+    "id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "Facebook Ads & Facebook Marketing",
+    "title_details": "Facebook Marketing from beginner to advanced!",
+    "course_details": {
+      "course_duration": 6,
+      "videos": 300,
+      "project": 20
+    },
+    "price":7000,
+    "thumbnail_url": "https://rb.gy/neqpsw",
+    "course_content": [
+      "INTRO TO FACEBOOK MARKETING",
+      "FACEBOOK PAGE",
+      "FACEBOOK ADS",
+      "FACEBOOK PIXEL + AUDIENCES",
+      "Types of Facebook Ads - IN DEPTH ANALYSIS",
+      "FACEBOOK ENGAGEMENT",
+      "FACEBOOK REPORTING, INSIGHTS + OPTIMIZATION",
+      "Social Media Marketing",
+      "Common Facebook FAQs - Watch our Coursenvy Team Answer YOUR QUESTIONS!",
+      "Business Manager + How to Start a Facebook Add Agency/Business",
+      "Facebook Shops",
+      "RESOURCES"
+    ],
+    "details": "In this course, you will learn Facebook Marketing from beginner level to advanced! We delve deep into EVERY aspect of Facebook and the Facebook Ads Manager. Learn how to use and optimize every type of Facebook campaign, Facebook custom audience, Facebook pixel... the things you will learn about Facebook are truly amazing and will instantly help advance your presence online! You will be able to optimize your Facebook ads for increased conversions and decreased costs. You will be able to create and make use of EVERY type of Facebook ad. You will be able to grow your Facebook page likes and post engagement. You will be able to find new customers that will drive your brand to new heights via online marketing. Join this course now to learn how to take your brand, product, service, or public figure to the next level with the power of Facebook Marketing!"
+  },
+  {
+    "id": "11468ed61aee84de492a8b04158a22f0",
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "Email Marketing complete beginners to Advance course",
+    "title_details": "Learn Email Marketing from the Starting step by step",
+    "course_details": {
+      "course_duration": 6,
+      "videos": 300,
+      "project": 20
+    },
+    "price":10000,
+    "thumbnail_url": "https://rb.gy/msxggw",
+    "course_content": [
+      "Chapter 1: What Is Email Marketing & it's Importance",
+      "Chapter 2: Lead Generation, Collection And Nurturing",
+      "Chapter 3: Setting Up Emailing System",
+      "Chapter 4: Automation Of Email Marketing",
+      "Chapter 5: Designing & Composing Of Emails",
+      "Chapter 6: Psychology Behind High Conversion Of Emails",
+      "Chapter 8: Quistions and Answers for Email Marketing"
+    ],
+    "details": "So, is Email Marketing is worth its value in 2021 or the future? Email does have the highest number of users on a daily basis and Email Marketing returns an ROI of more than 42. This means if you invest $1 you would be getting back approximately $42. Growing your email list is one of the most needed tasks to start wherever you’re in your Business stage or even if you’re a Blogger, Content Creator. Email Marketing can generate more sales and leads through a highly converting audience. Email marketing is a critical component of any business marketing plan. The quality of your message and your list could make or break an entire marketing campaign. We will take you through all aspects of an email program in this course, including strategy, data, design, delivery, testing, and analysis."
+  },
+
+  {
+    "id": "2e78e5e0310c2e9adbb6efb1a263e745",
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": null,
+    "title": "Adobe Photoshop from Beginner to Pro",
+    "title_details": "Master Adobe Photoshop CC 2022 without any previous knowledge with this easy-to-follow course",
+    "course_details": {
+      "course_duration": 6,
+      "videos": 300,
+      "project": 20
+    },
+    "price":7500,
+    "thumbnail_url": "https://rb.gy/qgmpp0",
+    "course_content": [
+      "Introduction",
+      "Get Started",
+      "Learn about layer essentials in Photoshop",
+      "Learn to work with layers like a pro",
+      "Camera Raw - Edit Your Photos",
+      "Cloud Documents - The Biggest Change in 2002",
+      "Raster Layers",
+      "Artboards",
+      "Selections 101",
+      "Selections 102",
+      "Shape Layers",
+      "Creative Layer Styles (Effects)",
+      "Work with Smart Objects",
+      "Create a Cute Character",
+      "Repair Your Photos",
+      "Text Layers",
+      "Improve Your Photos",
+      "Course Conclusions & What's Next"
+    ],
+    "details": "My approach is simple: we focus on real world cases and I present the best techniques that require minimal effort yet produce maximum results. All the lessons are focused on getting the job done in the least amount of time possible. I'll be using the latest version of the program - Photoshop CC 2022, but I explain my workflow for all users, no matter what version you have installed."
+  },
+
+  {
+    "id": "a713ee936ff5574273f0f769f5c5b20e",
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 111,
+    "title": "The Complete Figma Course – Designing Mobile & Web App UI/UX",
+    "title_details": "Learn how to use Figma to design beautiful mobile & web apps that make users feel amazing",
+    "course_details": {
+      "course_duration": 6,
+      "videos": 300,
+      "project": 20
+    },
+    "price":9000,
+    "thumbnail_url": "https://rb.gy/hvmjqb",
+    "course_content": [
+      "Introduction",
+      "Getting Started with Figma",
+      "Exploring Figma",
+      "Figma Tools in Action",
+      "Designing Our First Mobile UI",
+      "Completing Our Mobile Mockup",
+      "Prototyping",
+      "Teams & Sharing",
+      "Exporting from Figma",
+      "Designing a Web App UI",
+      "Conclusion"
+    ],
+    "details": "You will learn how to create beautiful mobile & web user interfaces that you can then turn into live prototypes with the help of Figma. Figma is a leading design software, helping teams and individuals create designs faster and more efficiently. Figma is free and you can use it right on your web browser, on Mac and Windows.[NEW] This course has been updated for 2022 to include all the latest Figma Features for your convenience and to keep the course fully up to date with Figma."
+  }
 ]
