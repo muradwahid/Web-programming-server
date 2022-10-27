@@ -8,6 +8,12 @@ app.use(cors());
 app.get("/categories", (req, res) => {
   res.send(categories)
 });
+app.get("/courses/:id", (req, res) => {
+  const categoryId = req.params.id;
+  const courses = data.filter((course) => course.category_id == categoryId);
+  res.send(courses)
+  
+})
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
