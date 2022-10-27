@@ -17,7 +17,11 @@ app.get("/courses/:id", (req, res) => {
 app.get('/allcourse', (req,res) => {
   res.send(data)
 })
-
+app.get("/details/:id", (req, res) => {
+  const course = req.params.id;
+  const singleCourse = data.find(c => c.id == course);
+  res.send(singleCourse)
+})
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
 });
